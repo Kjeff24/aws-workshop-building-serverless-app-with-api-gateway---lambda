@@ -1,5 +1,0 @@
-requests
-boto3
-aws-lambda-powertools
-aws-xray-sdk
-pytest
