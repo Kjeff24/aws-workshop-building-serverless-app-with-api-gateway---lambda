@@ -1,6 +1,7 @@
-<h1><a href="https://catalog.workshops.aws/serverless-patterns/en-US/business-scenario"></a>AWS WORKSHOP - BUILDING SERVERLESS APP WITH API GATEWAY & LAMBDA</h1>
+<h1>AWS WORKSHOP - BUILDING SERVERLESS APP WITH API GATEWAY & LAMBDA</h1>
 
 # USAGE
+- Get further understanding about workshop at https://catalog.workshops.aws/serverless-patterns/en-US/business-scenario
 - Login to AWS Cognito for the `ID_TOKEN`
 ```
 aws cognito-idp initiate-auth --auth-flow USER_PASSWORD_AUTH --client-id <client_id> --auth-parameters USERNAME=<username>,PASSWORD=<password> --query 'AuthenticationResult.IdToken' --output text
