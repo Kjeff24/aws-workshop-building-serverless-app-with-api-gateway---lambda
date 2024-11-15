@@ -1,1 +1,6 @@
-{}}
+{
+  "orderId": "6c54ea6b-7c0f-42c4-b85f-6403341dc6d3",
+  "restaurantId": 45,
+  "totalAmount": 42.0,
+  "orderItems": [{ "itemId": "coca cola", "quantity": 3, "price": 200 }]
+}
